@@ -1,1 +1,2 @@
-# timeseries
+# Timeseries
+Time and temperature
